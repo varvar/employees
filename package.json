@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuvalyn/michael.git"
+    "url": "git+https://github.com/varvar/employees"
   },
   "author": "Michael Sobol",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuvalyn/michael/issues"
+    "url": "https://github.com/varvar/employees/issues"
   },
-  "homepage": "https://github.com/yuvalyn/michael#readme",
+  "homepage": "hhttps://github.com/varvar/employees#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",

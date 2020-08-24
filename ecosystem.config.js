@@ -8,7 +8,7 @@ module.exports = {
       env: {
         NODE_ENV: 'production',
         MONGO_URI:
-          'mongodb+srv://varvar:At154872369@cluster0.2bpn6.mongodb.net/clarity?retryWrites=true&w=majority',
+          'mongodb+srv://sp1-user:AuseRqDzcTANQQK0@cluster0.eoxdy.mongodb.net/employees?retryWrites=true&w=majority',
         COOKIE_KEY: 'C123123123',
         PORT: 3000,
       },
